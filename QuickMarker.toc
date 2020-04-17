@@ -1,0 +1,7 @@
+## Interface: 11304
+## Title: QuickMarker
+## Author: Pircate
+## Version: 1.0.0
+## Notes: 快速标记助手.
+
+QuickMarker.lua
